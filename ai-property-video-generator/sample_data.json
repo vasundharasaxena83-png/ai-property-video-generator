@@ -1,0 +1,22 @@
+{
+  "property_name": "GreenView Residency",
+  "location": "Chandigarh, India",
+  "price": "₹65 lakh",
+  "property_type": "2 BHK Apartment",
+  "features": [
+    "Spacious living room",
+    "Modern kitchen",
+    "Two bedrooms",
+    "Balcony"
+  ],
+  "cta_text": "Contact us today to enquire",
+  "image_files": [
+    "01_exterior.jpg",
+    "02_living_room.jpg",
+    "03_kitchen.jpg",
+    "04_bedroom.jpg",
+    "05_balcony.jpg",
+    "06_home.jpg"
+  ],
+  "note": "Synthetic demonstration data. Images are generated illustrations, not a real listing."
+}
